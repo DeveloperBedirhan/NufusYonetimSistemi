@@ -1,0 +1,3 @@
+Proje yapımında kaynak olarak sadece internet sitelerinden; json dosyası nasıl açılır, nasıl stringe çevrilir vb. bilgilere bakılmıştır. İnternet sitelerinin linkleri:
+[1]https://kerteriz.net/python-json-okuma-yazma-donusturme-islemleri/
+[2]https://www.algoritmaornekleri.com/python/python-json-kullanimi/
